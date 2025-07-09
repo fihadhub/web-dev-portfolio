@@ -22,6 +22,10 @@ nav,ul{
     justify-content: space-between;
     margin: 0 35px 0 230px;
 }
+.heading-img{
+    width: 584px;
+    height: 676px;
+}
 ul{
     justify-content: center;
     align-items: center;
